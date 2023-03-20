@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default async function UsersPage () {
 
     const usesData : Promise<User[]> = getAllUsers()
+    
 
     return(
         <div>
