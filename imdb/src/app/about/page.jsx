@@ -24,7 +24,7 @@ export default function About() {
       </p>
       <p className="mt-5 ">
         As of February 12, 2023, IMDb is the 54th most visited website in the
-        world, according to website ranker Alexa.[4]
+        world, according to website ranker Alexa
       </p>
     </div>
   );
