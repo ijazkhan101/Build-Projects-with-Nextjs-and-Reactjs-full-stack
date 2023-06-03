@@ -12,6 +12,7 @@ export default function Home() {
         className="px-6 py-8 rounded-xl bg-gradient-to-br
        from-[#D9D9D9]/50 to-[#D9D9D9]/60  backdrop-blur-xl w-full max-w-md"
       >
+        <h1>Todo App With Next.js 13.4, Vercel Storage and Drizzle</h1>
         {/* Todo List */}
         {/* @ts-ignore */}
         <TodoList />
